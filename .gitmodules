@@ -1,0 +1,3 @@
+[submodule "news-classifier-ui"]
+	path = news-classifier-ui
+	url = https://github.com/archanaseru9/news-classifier-ui.git
